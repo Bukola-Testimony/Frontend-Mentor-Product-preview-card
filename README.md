@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![My solution preview](./screenshot.png)
-<img src="./images/screenshot.png">
+![My solution preview](https://github.com/Bukola-Testimony/Frontend-Mentor-Product-preview-card/blob/599f500dee21cff835e9219552c77d7b62a52ffd/images/Screenshot.png)
+
 
 ### Links
  
