@@ -32,8 +32,7 @@ Users should be able to:
 ### Links
  
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- live site URL: [My live site URL here](https://github.com/Bukola-Testimony/Frontend-Mentor-Product-preview-card/deployments/activity_log?environment=github-pages)
-
+- live site URL: [live site](https://bukola-testimony.github.io/Frontend-Mentor-Product-preview-card/)
 
 
 ## My process
