@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![My solution preview](https://github.com/Bukola-Testimony/Frontend-Mentor-Product-preview-card/blob/599f500dee21cff835e9219552c77d7b62a52ffd/images/Screenshot.png)
-
+<img src="./images/image-product-mobile.jpg" alt="mobile"/>
 
 ### Links
  
